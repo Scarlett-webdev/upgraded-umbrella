@@ -1,0 +1,39 @@
+body, html {
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+a {
+  color: #91a281;
+}
+
+header {
+  margin-bottom: 75px;
+  text-align: center;
+}
+
+footer {
+  background-color: #c76a7b !important;
+  margin-top: 75px;
+}
+
+nav {
+  background-color: #cca3a1 !important;
+}
+
+nav li {
+  display: inline;
+
+}
+
+
+article {
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+
+.main {
+  margin-top: 50px;
+}
